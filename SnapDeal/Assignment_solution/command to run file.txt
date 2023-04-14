@@ -1,0 +1,7 @@
+// Input.xlsx file should be in same directory
+
+npm init -y
+
+npm i puppeteer xlsx string-similarity
+
+node .\scrap.js
